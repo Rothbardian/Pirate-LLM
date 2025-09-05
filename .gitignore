@@ -12,3 +12,4 @@ wheels/
 
 # sensitive info PII
 .env
+uv.lock
